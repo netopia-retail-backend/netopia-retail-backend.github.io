@@ -809,7 +809,6 @@
   "user": {
     "emailReq": " Email is required",
     "nameReq": "Name is required",
-    "passwordReq": "Password is required",
     "success": "Success! User saved.",
     "profileImg": "Profile photo",
     "theme": "Theme colors"

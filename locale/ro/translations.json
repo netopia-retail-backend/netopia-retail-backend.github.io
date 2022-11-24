@@ -807,7 +807,6 @@
   "user": {
     "emailReq": "Email este necesar",
     "nameReq": "Nume este necesar",
-    "passwordReq": "Parola este necesară",
     "success": "Succes! Profilul a fost salvat.",
     "profileImg": "Poză de profil",
     "theme": "Culorile temei"
