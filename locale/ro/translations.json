@@ -691,7 +691,7 @@
     "p6": "reprezentand"
   },
   "receipe": {
-    "title": "Chitanțe",
+    "title": "Bonuri fiscale",
     "add": "Adăugați rețetă",
     "addLine": "Adăugați linii noi de rețetă",
     "req": "Este necesară cel puțin o secțiune înainte de a salva rețeta",
@@ -753,7 +753,7 @@
     "coords2": "Luna trecută"
   },
   "paymentMethods": {
-    "title": "Metode de plată luna aceasta",
+    "title": "Metode de plată",
     "posCash": "Dispoziții de plată / încasare",
     "cashMov": "Dispoziție de plată/încasare",
     "cash": "Numerar",
@@ -814,6 +814,7 @@
   "top": {
     "locations": "Top {{count}} Locații",
     "clients": "Top {{count}} Clienți",
+    "users": "Top {{count}} Utilizatori",
     "categories": "Top {{count}} Categorii",
     "products": "Top {{count}} Produse"
   },
@@ -842,6 +843,14 @@
     "edit": "Editați conținut media",
     "update": "Actualizați media"
   },
+
+  "cash_register": {
+    "z_report": "Raport Z",
+    "cash_movement": "Dispoziție de plată/încasare",
+    "customer_receipt": "Chitanță client",
+    "vendor_payment": "Plată furnizor"
+  },
+
   "err": {
     "PRODUCT_SHOULD_HAVE_ONE_SKU": "Produsul trebuie sa aiba minim un SKU",
     "MISSING_PAYLOAD": "Lipsesc unele câmpuri obligatorii",

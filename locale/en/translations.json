@@ -816,6 +816,7 @@
   "top": {
     "locations": "Top {{count}} Locations",
     "clients": "Top {{count}} Customers",
+    "users": "Top {{count}} Users",
     "categories": "Top {{count}} Categories",
     "products": "Top {{count}} Products"
   },
@@ -844,6 +845,14 @@
     "edit": "Edit media",
     "update": "Update media"
   },
+
+  "cash_register": {
+    "z_report": "Z Report",
+    "cash_movement": "Cash movement",
+    "customer_receipt": "Customer receipt",
+    "vendor_payment": "Vendor payment"
+  },
+
   "err": {
     "PRODUCT_SHOULD_HAVE_ONE_SKU": "The product must have at least one sku",
     "MISSING_PAYLOAD": "Some mandatory fields are missing",
