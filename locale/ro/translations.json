@@ -442,7 +442,8 @@
     "updateGlobal": "Actualizează categoria globală",
     "editGlobal": "Editați categoria globală",
     "view": "Vezi produsele",
-    "details": "Detalii categorie"
+    "details": "Detalii categorie",
+    "disabled_sale": "Ascunde pe POS"
   },
 
   "products": {

@@ -442,7 +442,8 @@
     "updateGlobal": "Update global category",
     "editGlobal": "Edit global category",
     "view": "View products",
-    "details": "Category details"
+    "details": "Category details",
+    "disabled_sale": "Hide on POS"
   },
 
   "products": {
